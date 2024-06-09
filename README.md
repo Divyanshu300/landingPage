@@ -10,7 +10,7 @@ Welcome to UIFry, your ultimate financial companion for making the best financia
 
 <h2>🚀 Live </h2>
 
-[App Landing Page](https://app-landing-page-website.vercel.app/)
+[App Landing Page](https://landing-page-orcin-tau.vercel.app/)
 
 <br></br>
   
